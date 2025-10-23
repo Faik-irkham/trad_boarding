@@ -64,7 +64,3 @@ A dynamic and highly animated onboarding screen for a conceptual finance app, bu
     ```
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License - see the `LICENSE` file (if available) for details.
