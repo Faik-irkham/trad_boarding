@@ -43,7 +43,7 @@ A dynamic and highly animated onboarding screen for a conceptual finance app, bu
 1.  Clone this repository:
 
     ```bash
-    git clone [https://github.com/YourUsername/YourRepoName.git](https://github.com/Faik-irkham/trad_boarding.git)
+    git clone [https://github.com/Faik-irkham/trad_boarding.git](https://github.com/Faik-irkham/trad_boarding.git)
     ```
 
 2.  Navigate to the project directory:
